@@ -17,7 +17,7 @@ public class ProdutoCopiaBranch {
    //Neste caso defini que quando um novo Produto for criado precisa atribuir uma marca inicial
    public ProdutoCopiaBranch(String marcaInicial, Tamanho tamanhoInicial) {
       this.setMarca(marcaInicial);
-      //this.setTamanho(tamanhoInicial);
+      //this.setTamanho(tamanhoInicial); inlcuir este comentário só pra subir na branch
    }
 
    //Encapsulamento
